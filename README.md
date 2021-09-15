@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🎓 I'm a double degree student in Human-Computer Interaction and Design at Aalto University in Helsinki/Espoo, Finland, and KTH Royal Institute of Technology in Stockholm, Sweden
+- 🌱 I have experience in data analytics using Python and web development using JavaScript
+- 💬 I'd love to pursue a career in Human-Computer Interaction research in industry or academia, let's talk!
+
+
+
 <!--
 **christophajohns/christophajohns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
