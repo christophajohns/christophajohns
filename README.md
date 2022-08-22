@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🎓 I'm a double degree student in Human-Computer Interaction and Design at Aalto University in Helsinki/Espoo, Finland, and KTH Royal Institute of Technology in Stockholm, Sweden
+- 🎓 I'm a PhD student in Computational Support for Sketching and Prototyping at Aarhus University in Denmark
 - 🌱 I have experience in data analytics using Python and web development using JavaScript
-- 💬 I'd love to pursue a career in Human-Computer Interaction research in industry or academia, let's talk!
+- 💬 I'd love to progress my career in Human-Computer Interaction research in industry or academia, let's talk!
 
 
 
