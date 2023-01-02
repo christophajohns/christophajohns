@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎓 I'm a PhD student in Computational Support for Sketching and Prototyping at Aarhus University in Denmark
+- 🎓 I'm a PhD student in Computational Interaction at Aarhus University in Denmark
 - 🌱 I have experience in data analytics using Python and web development using JavaScript
 - 💬 I'd love to progress my career in Human-Computer Interaction research in industry or academia, let's talk!
 
